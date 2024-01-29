@@ -1,7 +1,6 @@
  Hi, there 👋
 
-🌱 I’m currently learning  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+🌱 I’m currently learning ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 
 💞️ I’m looking to collaborate on team projects!
 
