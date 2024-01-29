@@ -1,14 +1,23 @@
- Hi, there 👋
+ ## Hi, there 👋
 
-🌱 I’m currently learning ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+I like making applications party dance with HTML, CSS & JavaScript 💃🏾
 
-💞️ I’m looking to collaborate on team projects!
+### 🌱 I’m currently learning 
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 
-📫 How to reach me destineeadomako@gmail.com
+### 🔭 I’m working on
+- creating a CRUD app with Python in a group project!
 
-😄 Pronouns: She/Her
+### 💞️ I’m looking forward to
+- collaboration!
 
-⚡ Fun fact: I reas a lot of books📚!
+### 📫 How to reach me 
+- destineeadomako@gmail.com
+
+### 😄 Pronouns: She/Her
+
+### ⚡ Fun fact: 
+- I'm not addicted to reading; I'm just in a committed relationship with my bookshelf📚!
 
 <!---
 destineead/destineead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
