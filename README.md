@@ -3,13 +3,13 @@
 I like making applications party dance with HTML, CSS & JavaScript 💃🏾
 
 ### 🌱 I’m currently learning 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+- creating MERN Stack applications
 
 ### 🔭 I’m working on
-- creating a CRUD app with Python in a group project!
+- building my Portfolio
 
 ### 💞️ I’m looking forward to
-- collaboration!
+- Job searching!
 
 ### 📫 How to reach me 
 - destineeadomako@gmail.com
