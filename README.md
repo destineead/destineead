@@ -3,13 +3,13 @@
 I like making applications party dance with HTML, CSS & JavaScript 💃🏾
 
 ### 🌱 I’m currently learning 
-- creating MERN Stack applications
+- creating a portfolio using JS and React!
 
 ### 🔭 I’m working on
 - building my Portfolio
 
 ### 💞️ I’m looking forward to
-- Job searching!
+- Updating previous projects
 
 ### 📫 How to reach me 
 - destineeadomako@gmail.com
